@@ -10,6 +10,28 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+header{
+  background-image: url(/assets/img/blob-scene-haikei.svg);
+  background-size: cover;
+}
+
+.bg-main{
+  background-color: #04121f;
+}
+
+.text-clr{
+  color: #04121f;
+}
+
+.bg-clone{
+  background-color: #1a223a;
+}
+
+.bg-test{
+  background-color: #623c65;
+}
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -77,6 +99,10 @@
   --bs-link-hover-color: #15967d;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
+}
+
+.about-me-text{
+  max-width: 500px;
 }
 
 *,
@@ -10907,13 +10933,13 @@ html {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #1abc9c;
+  color: #04121f;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #1abc9c;
+  color: #04121f;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -10935,11 +10961,11 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #04121f;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #04121f;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -11035,8 +11061,8 @@ html {
 }
 
 .footer {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
   background-color: #2c3e50;
   color: #fff;
 }

@@ -1,0 +1,15 @@
+{
+    "Projects" : "Progetti",
+    "About" : "Info",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"http://https://faliloukhouma.netlify.app?lng=it\">IT</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=en\">EN</a>",
+    "profile image of falilou khouma" : "immagine profile di falilou khouma",
+    "Hi, I'm Falilou" : "Ciao, sono Falilou",
+    "Software Developer" : "Software Developer",
+    "Based in Montreal, Quebec" : "Con sede a Montreal, Quebec",
+    "Coming Soon..." : "In Arrivo...",
+    "About Me" : "Chi sono",
+    "As a software developer and freelancer, I'm focused on creating and providing solutions using software and technologies as leverage to bring my ideas to life. I'm passionate about learning and discovering more about myself and others, and always open to new opportunities to create value." : "Sono un sviluppatore software e freelancer, focalizzato sul creare e fornire soluzioni utilizzando software e tecnologie come leva per dare vita alle mie idee. Sono appassionato di imparare e scoprire di più su me stesso e sugli altri, e sono sempre aperto a nuove opportunità per creare valore.",
+    "My Resume" : "Curriculum",
+    "Reach out" : "Contattami"
+}

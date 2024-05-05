@@ -1,0 +1,15 @@
+{
+    "Projects" : "Projects",
+    "About" : "About",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>",
+    "profile image of falilou khouma" : "profile image of falilou khouma",
+    "Hi, I'm Falilou" : "Hi, I'm Falilou",
+    "Software Developer" : "Software Developer",
+    "Based in Montreal, Quebec" : "Based in Montreal, Quebec",
+    "Coming Soon..." : "Coming Soon...",
+    "About Me" : "About Me",
+    "As a software developer and freelancer, I'm focused on creating and providing solutions using software and technologies as leverage to bring my ideas to life. I'm passionate about learning and discovering more about myself and others, and always open to new opportunities to create value." : "As a software developer and freelancer, I'm focused on creating and providing solutions using software and technologies as leverage to bring my ideas to life. I'm passionate about learning and discovering more about myself and others, and always open to new opportunities to create value.",
+    "My Resume" : "My Resume",
+    "Reach out" : "Reach out"
+}

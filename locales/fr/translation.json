@@ -1,7 +1,7 @@
 {
     "Projects" : "Projets",
     "About" : "À propos",
-    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"http://https://faliloukhouma.netlify.app?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=en\">EN</a>",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.netlify.app/?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=en\">EN</a>",
     "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>",
     "profile image of falilou khouma" : "image de profil de falilou khouma",
     "Hi, I'm Falilou" : "Salut, je suis Falilou",
@@ -11,5 +11,5 @@
     "About Me" : "À propos de moi",
     "As a software developer and freelancer, I'm focused on creating and providing solutions using software and technologies as leverage to bring my ideas to life. I'm passionate about learning and discovering more about myself and others, and always open to new opportunities to create value." : "Je suis un développeur software et freelancer, concentrè sur la création et la fourniture de solutions en utilisant des software et des technologies comme levier pour donner vie à mes idées. Je suis passionné par l'apprentissage et la découverte de moi-même et des autres, et toujours ouvert aux nouvelles opportunités pour créer de la valeur.",
     "My Resume" : "Mon CV",
-    "Reach out" : "Me contacter"    
+    "Reach out" : "Me contacter"
 }

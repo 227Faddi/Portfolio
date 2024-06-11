@@ -1,7 +1,7 @@
 {
     "Projects" : "Projets",
     "About" : "À propos",
-    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=en\">EN</a>",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=en\">EN</a>",
     "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>",
     "profile image of falilou khouma" : "image de profil de falilou khouma",
     "Hi, I'm Falilou" : "Salut, je suis Falilou",

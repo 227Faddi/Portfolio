@@ -49,7 +49,7 @@ header{
 }
 
 .bg-clone{
-  background-color: #1a223a;
+  background-color: #038373;
 }
 
 .bg-test{
@@ -5289,7 +5289,7 @@ textarea.form-control-lg {
   --bs-modal-padding: 1rem;
   --bs-modal-margin: 0.5rem;
   --bs-modal-color: #fff;
-  --bs-modal-bg: #2A375D;
+  --bs-modal-bg: #038373;
   --bs-modal-border-color: var(--bs-border-color-translucent);
   --bs-modal-border-width: 0.125rem;
   --bs-modal-border-radius: 0.75rem;

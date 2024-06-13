@@ -18,7 +18,7 @@
         <meta name="msapplication-TileColor" content="#da532c">
         <meta name="theme-color" content="#ffffff">
         <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <script src="https://kit.fontawesome.com/60a03fd31d.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
@@ -27,7 +27,7 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+        <nav class="navbar navbar-expand-lg bg2 text-uppercase fixed-top" id="mainNav">
             <div class="container">
                 <a translated class="navbar-brand" href="#page-top">Falilou Khouma</a>
                 <button translated class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -36,8 +36,8 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Projects</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Projects</a></li>
                         <li merge class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="?lng=fr">FR</a></li>
                         <li merge class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="?lng=it">IT</a></li>
                     </ul>
@@ -49,7 +49,7 @@
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
                 <picture class="mb-5">
-                    <img class="masthead-avatar" src="assets/img/file.webp" alt="profile image of falilou khouma" loading="lazy" decoding="async"/>
+                    <img class="masthead-avatar" src="assets/img/cropped_image.png" alt="profile image of falilou khouma" loading="lazy" decoding="async"/>
                 </picture>
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Hi, I'm Falilou</h1>
@@ -61,104 +61,33 @@
                 </div>
                 <!-- Masthead Subheading-->
                 <p class="masthead-subheading font-weight-bold mb-2">Software Developer</p>
+                <p class="masthead-subheading font-weight-bold mb-2">Tech Stack</p>
                 <!-- Stack Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-3">
-                    <i class="btn-social mx-1 fa-brands fa-html5"></i>
-                    <i class="btn-social mx-1 fa-brands fa-css3-alt"></i>
-                    <i class="btn-social mx-1 fa-brands fa-bootstrap"></i>
-                    <i class="btn-social mx-1 fa-brands fa-js"></i>
-                    <i class="btn-social mx-1 fa-brands fa-node"></i>
+                    <a class="tech-stack text-white mx-2"><i class="fab fa-fw fa-html5"></i></a>
+                    <a class="tech-stack text-white mx-2"><i class="fa-brands fa-css3-alt"></i></a>
+                    <a class="tech-stack text-white mx-2"><i class="fab fa-fw fa-bootstrap"></i></a>
+                    <a class="tech-stack text-white mx-2"><i class="fa-brands fa-js"></i></a>
+                    <a class="tech-stack text-white mx-2"><i class="fa-brands fa-node"></i></a>
                 </div>
-                <p class="masthead-subheading font-weight-bold mb-2">Based in Montreal, Quebec</p>
                 <!-- Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
-                    <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/khoumaDev"><i class="fab fa-fw fa-twitter"></i></a>
+                    <a class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/khoumaDev"><i class="fab fa-fw fa-x-twitter"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/serigne-khouma/"><i class="fab fa-fw fa-linkedin-in"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="https://github.com/227Faddi"><i class="fab fa-fw fa-github"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="mailto:falukhouma27@gmail.com"><i class="fa-regular fa-envelope"></i></a>
                 </div>
             </div>
         </header>
-        <!-- Portfolio Section-->
-        <section class="page-section portfolio" id="portfolio">
-            <div class="container">
-                <!-- Portfolio Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Projects</h2>
-                <!-- Icon Divider-->
-                <div class="divider-custom">
-                    <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-folder-open"></i></div>
-                    <div class="divider-custom-line"></div>
-                </div>
-                <h3 class="text-center">Coming Soon...</h3>
-                <!-- Portfolio Grid Items
-                <div class="row justify-content-center">
-                    Portfolio Item 1
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="..." />
-                        </div>
-                    </div>
-                    Portfolio Item 2
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
-                        </div>
-                    </div>
-                    Portfolio Item 3
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
-                        </div>
-                    </div>
-                    Portfolio Item 4
-                    <div class="col-md-6 col-lg-4 mb-5 mb-lg-0">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/game.png" alt="..." />
-                        </div>
-                    </div>
-                    Portfolio Item 5
-                    <div class="col-md-6 col-lg-4 mb-5 mb-md-0">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal5">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/safe.png" alt="..." />
-                        </div>
-                    </div>
-                    Portfolio Item 6
-                    <div class="col-md-6 col-lg-4">
-                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
-                            </div>
-                            <img class="img-fluid" src="assets/img/portfolio/submarine.png" alt="..." />
-                        </div>
-                    </div>
-                </div> -->
-            </div>
-        </section>
         <!-- About Section-->
-        <section class="page-section bg-clone text-white mb-0" id="about">
+        <section class="page-section bg2 text-white mb-0" id="about">
             <di class="container d-flex flex-column align-items-center">
                 <!-- About Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-white">About Me</h2>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
-                    <div class="divider-custom-icon"><i class="fas fa-user"></i></div>
+                    <div class="divider-custom-icon"><i class="fa-solid fa-user-secret"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- About Section Content-->
@@ -171,12 +100,49 @@
                 </a> -->
             </div>
         </section>
+        <!-- Portfolio Section-->
+        <!-- Portfolio Section-->
+        <section class="page-section portfolio text-white" id="portfolio">
+            <div class="container">
+                <!-- Portfolio Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white mb-0">Portfolio</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fa-solid fa-folder-open"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/pegasus-hairsalon.webp" alt="..." />
+                        </div>
+                        <h3 class="text-center mt-4">Pegasus Hair Salon</h3>
+                    </div>
+                    <!-- Portfolio Item 2-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
+                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/mocktails-bar.webp" alt="..." />
+                        </div>
+                        <h3 class="text-center mt-4">Mocktails Bar</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
         <!-- Footer-->
-        <footer class="footer">
+        <footer class="footer bg2">
             <div class="container">
                 <div class="col-lg mb-5 mb-lg-0 text-end">
                     <h4 class="text-uppercase mb-4">Reach out</h4>
-                    <a translated class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/khoumaDev"><i class="fab fa-fw fa-twitter"></i></a>
+                    <a translated class="btn btn-outline-light btn-social mx-1" href="https://twitter.com/khoumaDev"><i class="fab fa-fw fa-x-twitter"></i></a>
                     <a translated class="btn btn-outline-light btn-social mx-1" href="https://www.linkedin.com/in/serigne-khouma/"><i class="fab fa-fw fa-linkedin-in"></i></a>
                     <a translated class="btn btn-outline-light btn-social mx-1" href="https://github.com/227Faddi"><i class="fab fa-fw fa-github"></i></a>
                     <a translated class="btn btn-outline-light btn-social mx-1" href="mailto:falukhouma27@gmail.com"><i class="fa-regular fa-envelope"></i></a>
@@ -184,6 +150,75 @@
                 <div translated class="col-lg mb-5 mb-lg-0 d-flex align-items-end"><small>Copyright &copy; Falilou Khouma 2024</small></div>
             </div>
         </footer>
+        <!-- Portfolio Modals-->
+        <!-- Portfolio Modal 1-->
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-uppercase mb-0">Pegasus Hair Salon</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom divider-light">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-ruler-combined"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/pegasus-hairsalon.webp" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <a class="btn btn-light mx-3" href="https://pegasushairsalon.netlify.app/" >
+                                        Live
+                                    </a>
+                                    <a class="btn btn-light mx-3" href="https://github.com/227Faddi/pegasus-hair-salon" >
+                                        Code
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio Modal 2-->
+        <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
+            <div class="modal-dialog modal-xl">
+                <div class="modal-content">
+                    <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                    <div class="modal-body text-center pb-5">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <!-- Portfolio Modal - Title-->
+                                    <h2 class="portfolio-modal-title text-uppercase mb-0">Mocktails Bar</h2>
+                                    <!-- Icon Divider-->
+                                    <div class="divider-custom divider-light">
+                                        <div class="divider-custom-line"></div>
+                                        <div class="divider-custom-icon"><i class="fa-solid fa-martini-glass-citrus"></i></div>
+                                        <div class="divider-custom-line"></div>
+                                    </div>
+                                    <!-- Portfolio Modal - Image-->
+                                    <img class="img-fluid rounded mb-5" src="assets/img/portfolio/mocktails-bar.webp" alt="..." />
+                                    <!-- Portfolio Modal - Text-->
+                                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                    <a class="btn btn-light mx-3" href="https://mocktails-bar.netlify.app/" >
+                                        Live
+                                    </a>
+                                    <a class="btn btn-light mx-3" href="https://github.com/227Faddi/mocktails-bar" >
+                                        Code
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->

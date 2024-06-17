@@ -7,12 +7,11 @@
 }
 
 header{
-  /* background-color: #1a223a; */
   background-image: url(/assets/img/stacked-peaks-haikei.svg);
   background-size: cover;
 }
 
-.tech-stack{
+.tech-stack-icon{
   font-size: 3.5rem;
 }
 
@@ -21,27 +20,12 @@ header{
   background-size: cover;
 }
 
-.bg2{
-  background-color: #2A375D;
-}
-
-.text-2{
-  color:  #2A375D;
-}
 .bg-main{
-  background-color: #04121f;
+  background-color: #2A375D;
 }
 
 .text-clr{
   color: #04121f;
-}
-
-.bg-clone{
-  background-color: #038373;
-}
-
-.bg-test{
-  background-color: #623c65;
 }
 
 :root {
@@ -8079,7 +8063,7 @@ textarea.form-control-lg {
 
 .text-secondary {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-secondary-rgb), var(--bs-text-opacity)) !important;
+  color:  #2A375D;
 }
 
 .text-success {

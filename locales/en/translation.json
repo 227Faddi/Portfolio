@@ -1,15 +1,31 @@
 {
-    "Projects" : "Projects",
     "About" : "About",
+    "Portfolio" : "Portfolio",
+    "Contact" : "Contact",
     "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=fr\">FR</a>",
-    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>",
-    "profile image of falilou khouma" : "profile image of falilou khouma",
     "Hi, I'm Falilou" : "Hi, I'm Falilou",
-    "Software Developer" : "Software Developer",
-    "Based in Montreal, Quebec" : "Based in Montreal, Quebec",
-    "Coming Soon..." : "Coming Soon...",
+    "Full-Stack Software Developer" : "Full-Stack Software Developer",
     "About Me" : "About Me",
-    "As a software developer, I focus on creating and providing solutions using software and technology to bring my ideas to life. I am passionate about learning and self-discovery, and always open to new opportunities to create value." : "As a software developer, I focus on creating and providing solutions using software and technology to bring ideas to life. I am passionate about learning and self-discovery, and always open to new opportunities to create value.",
-    "My Resume" : "My Resume",
-    "Reach out" : "Reach out"
+
+    "I'm Falilou Khouma, a Full-Stack Software Developer based in Montreal. I create practical solutions to modern problems through software development, specializing in dynamic, user-friendly applications using technologies like HTML, CSS, Bootstrap, JavaScript, Node.js, Express, and MongoDB." : "I'm Falilou Khouma, a Full-Stack Software Developer based in Montreal. I create practical solutions to modern problems through software development, specializing in dynamic, user-friendly applications using technologies like HTML, CSS, Bootstrap, JavaScript, Node.js, Express, and MongoDB.",
+
+    "Contact Me" : "Contact Me",
+    "Name" : "Name",
+    "Email address" : "Email address",
+    "Message" : "Message",
+    "Send" : "Send",
+    "Reach out" : "Reach out",
+    "Tech used:" : "Tech used:",
+    
+    "NextRead is a web application designed to help users find book recommendations based on their interests. By entering a topic or genre, users can browse through a selection of books fetched from the Open Library API. The app displays book titles, authors, and cover images, allowing users to easily discover their next great read." : "NextRead is a web application designed to help users find book recommendations based on their interests. By entering a topic or genre, users can browse through a selection of books fetched from the Open Library API. The app displays book titles, authors, and cover images, allowing users to easily discover their next great read.",
+
+    "MTL Web Designs is my web development agency dedicated to creating responsive websites for small businesses, aimed at boosting their online presence with straightforward, effective, and fully functional designs. The site is multilingual, supporting content in English, French, and Italian languages." : "MTL Web Designs is my web development agency dedicated to creating responsive websites for small businesses, aimed at boosting their online presence with straightforward, effective, and fully functional designs. The site is multilingual, supporting content in English, French, and Italian languages.",
+
+    "Coin Wizard is an interactive full-stack web application where users can test their prediction skills by flipping a virtual coin. Enjoy a seamless user interface and engaging animations for a delightful coin-flipping experience!" : "Coin Wizard is an interactive full-stack web application where users can test their prediction skills by flipping a virtual coin. Enjoy a seamless user interface and engaging animations for a delightful coin-flipping experience!",
+
+    "The Canada Teranga site was made and designed as a responsive page for an immigration agency based in Quebec. It aims to provide a welcoming and informative online presence for prospective immigrants and visitors interested in Canadian immigration services." : "The Canada Teranga site was made and designed as a responsive page for an immigration agency based in Quebec. It aims to provide a welcoming and informative online presence for prospective immigrants and visitors interested in Canadian immigration services.",
+
+    "An app designed to generate random mocktails recipes by fetching data from the TheCocktailDB API. It provides a straightforward and enjoyable way for users to explore different mocktail recipes." : "An app designed to generate random mocktails recipes by fetching data from the TheCocktailDB API. It provides a straightforward and enjoyable way for users to explore different mocktail recipes.",
+
+    "A fully responsive landing page for Pegasus Hair Salon. The site highlights the salon’s services, and contact information, with a focus on a clean, modern aesthetic. Designed to provide an excellent user experience across desktop, tablet, and mobile devices." : "A fully responsive landing page for Pegasus Hair Salon. The site highlights the salon’s services, and contact information, with a focus on a clean, modern aesthetic. Designed to provide an excellent user experience across desktop, tablet, and mobile devices."
 }

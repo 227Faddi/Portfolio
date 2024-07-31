@@ -1,15 +1,30 @@
 {
-    "Projects" : "Projets",
     "About" : "À propos",
-    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=en\">EN</a>",
-    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"?lng=it\">IT</a>",
-    "profile image of falilou khouma" : "image de profil de falilou khouma",
+    "Portfolio" : "Portfolio",
+    "Contact" : "Contact",
     "Hi, I'm Falilou" : "Salut, je suis Falilou",
-    "Software Developer" : "Software Developer",
-    "Based in Montreal, Quebec" : "Basé à Montréal, Québec",
-    "Coming Soon..." : "Bientôt...",
+    "Full-Stack Software Developer" : "Développeur Full-Stack",
     "About Me" : "À propos de moi",
-    "As a software developer, I focus on creating and providing solutions using software and technology to bring my ideas to life. I am passionate about learning and self-discovery, and always open to new opportunities to create value." : "Je suis un développeur software, concentrè sur la création et la fourniture de solutions en utilisant des software et des technologies comme levier pour donner vie à mes idées. Je suis passionné par l'apprentissage et la découverte de moi-même, et toujours ouvert aux nouvelles opportunités pour créer de la valeur.",
-    "My Resume" : "Mon CV",
-    "Reach out" : "Me contacter"
+
+    "I'm Falilou Khouma, a Full-Stack Software Developer based in Montreal. I create practical solutions to modern problems through software development, specializing in dynamic, user-friendly applications using technologies like HTML, CSS, Bootstrap, JavaScript, Node.js, Express, and MongoDB." : "Je suis Falilou Khouma, un Développeur Full-Stack basé à Montréal. Je crée des solutions pratiques aux problèmes modernes par le développement logiciel, en me spécialisant dans les applications dynamiques et conviviales utilisant des technologies comme HTML, CSS, Bootstrap, JavaScript, Node.js, Express et MongoDB.",
+
+    "Contact Me" : "Contactez-moi",
+    "Name" : "Nom",
+    "Email address" : "Adresse e-mail",
+    "Message" : "Message",
+    "Send" : "Envoyer",
+    "Reach out" : "Joindre",
+    "Tech used" : "Technologies utilisées",
+
+    "NextRead is a web application designed to help users find book recommendations based on their interests. By entering a topic or genre, users can browse through a selection of books fetched from the Open Library API. The app displays book titles, authors, and cover images, allowing users to easily discover their next great read." : "NextRead est une application web conçue pour aider les utilisateurs à trouver des recommandations de livres en fonction de leurs intérêts. En entrant un sujet ou un genre, les utilisateurs peuvent parcourir une sélection de livres récupérés depuis l'API Open Library. L'application affiche les titres des livres, les auteurs et les images de couverture, permettant aux utilisateurs de découvrir facilement leur prochaine grande lecture.",
+
+    "MTL Web Designs is my web development agency dedicated to creating responsive websites for small businesses, aimed at boosting their online presence with straightforward, effective, and fully functional designs. The site is multilingual, supporting content in English, French, and Italian languages." : "MTL Web Designs est mon agence de développement web dédiée à la création de sites web réactifs pour les petites entreprises, visant à renforcer leur présence en ligne avec des designs simples, efficaces et entièrement fonctionnels. Le site est multilingue, supportant le contenu en anglais, français et italien.",
+
+    "Coin Wizard is an interactive full-stack web application where users can test their prediction skills by flipping a virtual coin. Enjoy a seamless user interface and engaging animations for a delightful coin-flipping experience!" : "Coin Wizard est une application web full-stack interactive où les utilisateurs peuvent tester leurs compétences de prédiction en lançant une pièce virtuelle. Profitez d'une interface utilisateur fluide et d'animations attrayantes pour une expérience amusante de lancer de pièce!",
+
+    "The Canada Teranga site was made and designed as a responsive page for an immigration agency based in Quebec. It aims to provide a welcoming and informative online presence for prospective immigrants and visitors interested in Canadian immigration services." : "Le site Canada Teranga a été créé et conçu comme une page réactive pour une agence d'immigration basée au Québec. Il vise à fournir une présence en ligne accueillante et informative pour les futurs immigrants et les visiteurs intéressés par les services d'immigration au Canada.",
+
+    "An app designed to generate random mocktails recipes by fetching data from the TheCocktailDB API. It provides a straightforward and enjoyable way for users to explore different mocktail recipes." : "Une application conçue pour générer des recettes de mocktails aléatoires en récupérant des données depuis l'API TheCocktailDB. Elle offre une manière simple et agréable pour les utilisateurs d'explorer différentes recettes de mocktails.",
+
+    "A fully responsive landing page for Pegasus Hair Salon. The site highlights the salon’s services, and contact information, with a focus on a clean, modern aesthetic. Designed to provide an excellent user experience across desktop, tablet, and mobile devices." : "Une page de destination entièrement réactive pour le salon de coiffure Pegasus. Le site met en avant les services du salon et les informations de contact, avec un accent sur une esthétique propre et moderne. Conçu pour offrir une excellente expérience utilisateur sur les appareils de bureau, tablette et mobile."
 }

@@ -14,7 +14,7 @@
     "Message" : "Message",
     "Send" : "Envoyer",
     "Reach out" : "Joindre",
-    "Tech used" : "Technologies utilisées",
+    "Tech used:" : "Tech utilisées",
 
     "NextRead is a web application designed to help users find book recommendations based on their interests. By entering a topic or genre, users can browse through a selection of books fetched from the Open Library API. The app displays book titles, authors, and cover images, allowing users to easily discover their next great read." : "NextRead est une application web conçue pour aider les utilisateurs à trouver des recommandations de livres en fonction de leurs intérêts. En entrant un sujet ou un genre, les utilisateurs peuvent parcourir une sélection de livres récupérés depuis l'API Open Library. L'application affiche les titres des livres, les auteurs et les images de couverture, permettant aux utilisateurs de découvrir facilement leur prochaine grande lecture.",
 

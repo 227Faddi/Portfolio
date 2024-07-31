@@ -2,6 +2,7 @@
     "About" : "À propos",
     "Portfolio" : "Portfolio",
     "Contact" : "Contact",
+    "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=en\">EN</a>",
     "Hi, I'm Falilou" : "Salut, je suis Falilou",
     "Full-Stack Software Developer" : "Développeur Full-Stack",
     "About Me" : "À propos de moi",

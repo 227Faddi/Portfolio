@@ -3,7 +3,7 @@
     "Portfolio" : "Portfolio",
     "Contact" : "Contact",
     "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=fr\">FR</a>" : "<a class=\"nav-link py-3 px-0 px-lg-3 rounded\" draggable=\"true\" href=\"https://faliloukhouma.com/?lng=en\">EN</a>",
-    "Hi, I'm Falilou" : "Salut, je suis Falilou",
+    "Hi, I'm Falilou" : "Salut, Je suis Falilou",
     "Full-Stack Software Developer" : "Développeur Full-Stack",
     "About Me" : "À propos de moi",
 
@@ -27,5 +27,7 @@
 
     "An app designed to generate random mocktails recipes by fetching data from the TheCocktailDB API. It provides a straightforward and enjoyable way for users to explore different mocktail recipes." : "Une application conçue pour générer des recettes de mocktails aléatoires en récupérant des données depuis l'API TheCocktailDB. Elle offre une manière simple et agréable pour les utilisateurs d'explorer différentes recettes de mocktails.",
 
-    "A fully responsive landing page for Pegasus Hair Salon. The site highlights the salon’s services, and contact information, with a focus on a clean, modern aesthetic. Designed to provide an excellent user experience across desktop, tablet, and mobile devices." : "Une page de destination entièrement réactive pour le salon de coiffure Pegasus. Le site met en avant les services du salon et les informations de contact, avec un accent sur une esthétique propre et moderne. Conçu pour offrir une excellente expérience utilisateur sur les appareils de bureau, tablette et mobile."
+    "A fully responsive landing page for Pegasus Hair Salon. The site highlights the salon’s services, and contact information, with a focus on a clean, modern aesthetic. Designed to provide an excellent user experience across desktop, tablet, and mobile devices." : "Une page de destination entièrement réactive pour le salon de coiffure Pegasus. Le site met en avant les services du salon et les informations de contact, avec un accent sur une esthétique propre et moderne. Conçu pour offrir une excellente expérience utilisateur sur les appareils de bureau, tablette et mobile.",
+
+    "Leads Track is an application designed to manage and track sales leads. It lets users easily add new leads, view detailed information, and monitor interactions to ensure timely follow-ups." : "Leads Track est une application conçue pour gérer et suivre les prospects commerciaux. Elle permet aux utilisateurs d'ajouter facilement de nouveaux prospects, de consulter des informations détaillées et de suivre les interactions pour garantir des relances en temps opportun."
 }
